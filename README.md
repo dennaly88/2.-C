@@ -54,17 +54,17 @@ __________________________
 
 
 ☑️ 1. Basico <br>
-☑️ 2. Variables
-☑️ 3. Lectura y Escritura 
-☑️ 4. Condicionales Simples 
-☑️ 5. Condicionales Dobles
-☑️ 6. Condicionales Multiples
-☑️ 7. Switcher
-☑️ 8. Ciclo Para 
-☑️ 9. Ciclo Mientras 
-☑️ 10. Ciclo Repetir 
-☑️ 11. Listas
-☑️ 12. Matrices
+☑️ 2. Variables <br>
+☑️ 3. Lectura y Escritura <br> 
+☑️ 4. Condicionales Simples <br>
+☑️ 5. Condicionales Dobles <br>
+☑️ 6. Condicionales Multiples <br>
+☑️ 7. Switcher <br>
+☑️ 8. Ciclo Para <br>
+☑️ 9. Ciclo Mientras <br>
+☑️ 10. Ciclo Repetir <br>
+☑️ 11. Listas <br>
+☑️ 12. Matrices <br>
 
 
 
