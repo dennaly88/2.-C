@@ -1,6 +1,15 @@
-<h1 align="center">Danny Jimenez Ingeniero en Informática</h1>
 
-###
+<div align="center">
+  
+<h1 align="center"> DANNY JOSÉ JIMÉNEZ GUTIÉRREZ  </h1>
+🖥️_ INGENIERO EN INFORMÁTICA _💻
+
+[![📞 0424-281-44-55](https://img.shields.io/badge/Phone-0424--281--44--55-0078D4?style=for-the-badge&logo=phone&logoColor=white)](tel:04242814455)
+[![✉️ dennaly88@gmail.com](https://img.shields.io/badge/Email-dennály88@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dennaly88@gmail.com)
+
+</div>
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -33,39 +42,31 @@
 
 ###
 
+_____________________________________________________________________________________________________________________________________________________________
+📚 Curso Completo: Lenguaje C                                                                                                      
+📌 Ubicación: CÚA, Estado Miranda                                                                                                                                                 
+🗓️ Año: 2025
+______________________________________________________________________________________________________________________________________________________________
 
 
-*******************************************************
-DANNY JOSE JIMENEZ GUTIERREZ   
-TELEFONO :0424-281-44-55
-CORREO : DENNALY88@GMAIL.COM
-INGENIERO EN SISTEMAS 
-*******************************************************
+📋 Material Cubierto
+__________________________
 
-*******************************************************
-CUA , ESTADO MIRANDA 2025
-CURSO DEL LENGUAJE C  
-DEV DEVELOPMENT    
-******************************************************
 
-*******************************************************
-Curso Completo de C
-*******************************************************
+☑️ 1. Basico
+☑️ 2. Variables
+☑️ 3. Lectura y Escritura 
+☑️ 4. Condicionales Simples 
+☑️ 5. Condicionales Dobles
+☑️ 6. Condicionales Multiples
+☑️ 7. Switcher
+☑️ 8. Ciclo Para 
+☑️ 9. Ciclo Mientras 
+☑️ 10. Ciclo Repetir 
+☑️ 11. Listas
+☑️ 12. Matrices
 
-Material del Curso 
-**********************
 
-1. Basico
-2. Variables
-3. Lectura y Escritura 
-4. Condicionales Simples 
-5. Condicionales Dobles
-6. Condicionales Multiples
-7. Switcher
-8. Ciclo Para 
-9. Ciclo Mientras 
-10. Ciclo Repetir 
-11. Listas
-12. Matrices
+
 
 *******************************************************
